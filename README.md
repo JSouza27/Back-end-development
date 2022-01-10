@@ -2,6 +2,6 @@
 
 Repositório de Back End em JavaScript / NodeJs
 
-#### NodeJS - Serviço de camadas, Arquitetura MSC e API RESTful
+#### NodeJS - Camada de Serviço e Arquitetura Rest e Restful
 
 - [Projeto-Store-Manager](https://github.com/JSouza27/Projeto-Store-Manager)
